@@ -26,7 +26,7 @@ Pod::Spec.new do |s|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = <<-DESC
-带有占位文字的textView，高度随着文本高度自动调整....
+好用的textView，高度随着文本高度自动调整.，简单实用...
                    DESC
 
   s.homepage     = "https://github.com/ryc787725121/YCTextView"
