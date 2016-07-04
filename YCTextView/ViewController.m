@@ -29,7 +29,7 @@
     self.textView.backgroundColor = [UIColor redColor];
     [self.view addSubview:self.textView];
     
-
+    // fixbug分支，修复了1.1bug
     
     
     

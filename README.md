@@ -3,3 +3,7 @@
 
 # >>> 
 支持cocoaPods 搜索文件 YCPlaceholderTextView
+
+
+# 
+ ![](https://github.com/ryc787725121/YCTextView/blob/master/test.png)
